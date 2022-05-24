@@ -1,7 +1,5 @@
 # dotfiles
 
-![A few screenshots](~/Pictures/2022-05-24_16-29.png)
-
 ## Installation 
 
 first clone this repository 
