@@ -14,10 +14,6 @@ sudo pacman -S Kitty
 
 sudo pacman -S qtile
 
-###OMB
-
-https://github.com/ohmybash/oh-my-bash
-
 ### neovim
 
 sudo pacman -S nvim
